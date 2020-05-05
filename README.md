@@ -2,7 +2,7 @@
 
 This repository contains the source code for:
 
-* [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701)
+* [Windows Terminal](https://www.microsoft.com/zh-cn/p/windows-terminal-preview/9n0dx20hk701)
 * The Windows console host (`conhost.exe`)
 * Components shared between the two projects
 * [ColorTool](https://github.com/Microsoft/Terminal/tree/master/src/tools/ColorTool)
